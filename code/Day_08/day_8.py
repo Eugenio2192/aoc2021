@@ -1,4 +1,4 @@
-﻿from numpy import array, zeros, where, equal, empty_like, arange, apply_along_axis
+﻿from numpy import array, zeros, where, empty_like, arange, apply_along_axis
 with open("code/Day_08/input.txt","r", encoding="utf-8-sig") as file:
     lines = file.readlines()
 
